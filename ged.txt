@@ -1,0 +1,17 @@
+Privacy in Chatbots - Studying information disclosure in conversation with digital assistants. Working on a grant as well.  
+
+WhatsApp Privacy - Privacy perception and cross-cultural behavior among vulnerable populations using WhatsApp
+
+Cybersecurity of Older Adults in the Workforce - cybersecurity risk perception among older adults who are going back into the workforce
+
+
+Unsubscribing from Unwanted Emails - user mental models and design suggestions for unsubscribing from unwanted emails 
+
+IoT Privacy - user privacy perceptions in the IoT space (marketplace and user behavior experiments)
+
+Android App Permissions - assisted with data analysis on android apps pre and post GDPR
+
+Modular Privacy Policies - development of modular privacy policy model to make privacy policies more readable and easy to use
+
+ 
+
